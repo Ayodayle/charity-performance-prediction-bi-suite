@@ -1,1 +1,1 @@
-# charity-performance-prediction-bi-suite
+This project seeks to create a guide to help non-profits and public organisations with creating a model to predict and monitor key performance outcomes based on a number of related input variables. It is hoped that it will help them scale performance by tracking these metrics proactively. Please reach out if you are willing to contribute.
