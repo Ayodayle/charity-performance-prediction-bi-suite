@@ -1,6 +1,6 @@
 # Charity Performance Prediction BI Suite
 
-This project is a toolkit for helping non-profits and public sector organisations build predictive models to forecast and monitor key performance outcomes — such as employment success, housing stability, or program engagement.
+This project is a toolkit for helping non-profits and public sector organisations build predictive models to forecast and monitor key performance outcomes; such as employment success, housing stability, or program engagement.
 
 By using simulated data, Python, and Power BI, the project demonstrates how organisations can proactively track outcome metrics and make data-informed decisions with minimal technical overhead.
 
