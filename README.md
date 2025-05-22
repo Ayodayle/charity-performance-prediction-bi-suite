@@ -27,7 +27,6 @@ By using simulated data, Python, and Power BI, the project demonstrates how orga
 
 ## 📁 Folder Structure
 charity-performance-prediction-bi-suite/
-│
 ├── data/ # Simulated and predicted data files (CSV)
 ├── models/ # Trained machine learning model (.pkl)
 ├── power-bi/ # Power BI dashboard files (.pbix)
