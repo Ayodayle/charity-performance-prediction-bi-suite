@@ -42,7 +42,7 @@ charity-performance-prediction-bi-suite/
 
 ### 1. Clone the repository
 
-```bash
+``bash
 git clone https://github.com/Ayodayle/charity-performance-prediction-bi-suite.git
 cd charity-performance-prediction-bi-suite
 
